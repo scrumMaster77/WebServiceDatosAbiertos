@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Municipios de Nariño</string>
+    <string name="details">Información</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
